@@ -1,7 +1,6 @@
 import totalSold from "./total-sold.js";
 import totalStock from "./total-stock.js";
 
-// in een uitgebreidere functie
 // function totalToSell(product) {
 //     return totalStock(product) - totalSold(product);
 // }
